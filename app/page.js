@@ -8,7 +8,7 @@ export default function Home() {
         height: "100vh",
       }}
     >
-      <h1>Hello World ! 👋</h1>
+      <h1>Updated Hello World ! 👋</h1>
     </main>
   );
 }
